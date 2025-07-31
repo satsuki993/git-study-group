@@ -1,0 +1,8 @@
+git remote add origin https://github.com/ユーザー名/リポジトリ名.git
+git push -u origin master
+
+git remote add origin https://github.com/satsuki993/git勉強会①.git
+git push -u origin master
+
+git remote add origin https://github.com/satsuki993/test20250731.git
+git push -u origin master
