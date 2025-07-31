@@ -1,2 +1,6 @@
+リモートリポジトリの作成
 git remote add origin https://github.com/ユーザー名/リポジトリ名.git
 git push -u origin master
+
+リモートリポジトリのクローン
+git clone https://github.com/ユーザー名/リポジトリ名.git
