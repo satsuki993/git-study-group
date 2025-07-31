@@ -4,3 +4,7 @@ git push -u origin master
 
 リモートリポジトリのクローン
 git clone https://github.com/ユーザー名/リポジトリ名.git
+
+
+新しいブランチを作成して移動する
+ git switch -c <新しいブランチ名>
